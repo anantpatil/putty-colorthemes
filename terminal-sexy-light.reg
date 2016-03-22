@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Terminal-sexy-light]
+"Colour0"="48,48,48"
+"Colour1"="48,48,48"
+"Colour2"="245,245,245"
+"Colour3"="245,245,245"
+"Colour4"="245,245,245"
+"Colour5"="48,48,48"
+"Colour6"="21,21,21"
+"Colour7"="80,80,80"
+"Colour8"="172,65,66"
+"Colour9"="172,65,66"
+"Colour10"="144,169,89"
+"Colour11"="144,169,89"
+"Colour12"="244,191,117"
+"Colour13"="244,191,117"
+"Colour14"="106,159,181"
+"Colour15"="106,159,181"
+"Colour16"="170,117,159"
+"Colour17"="170,117,159"
+"Colour18"="117,181,170"
+"Colour19"="117,181,170"
+"Colour20"="208,208,208"
+"Colour21"="245,245,245"
+

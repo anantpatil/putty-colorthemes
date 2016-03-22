@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\shapeshifter-light]
+"Colour0"="16,32,21"
+"Colour1"="16,32,21"
+"Colour2"="249,249,249"
+"Colour3"="249,249,249"
+"Colour4"="249,249,249"
+"Colour5"="16,32,21"
+"Colour6"="0,0,0"
+"Colour7"="52,52,52"
+"Colour8"="233,47,47"
+"Colour9"="233,47,47"
+"Colour10"="14,216,57"
+"Colour11"="14,216,57"
+"Colour12"="221,221,19"
+"Colour13"="221,221,19"
+"Colour14"="59,72,227"
+"Colour15"="59,72,227"
+"Colour16"="249,150,226"
+"Colour17"="249,150,226"
+"Colour18"="35,237,218"
+"Colour19"="35,237,218"
+"Colour20"="171,171,171"
+"Colour21"="249,249,249"
+
